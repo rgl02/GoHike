@@ -4,8 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
-  <link rel="stylesheet" href="../assets/css/index.css">
-  <!-- <style>
+  <link rel="stylesheet" href="/assets/css/index.css">
+  <style>
     .navbar {
   background-color: #333;
   color: #fff;
@@ -23,7 +23,7 @@
 .navbar li {
   margin-right: 20px;
 }
-  </style> -->
+  </style>
 </head>
 <body>
   <header>
